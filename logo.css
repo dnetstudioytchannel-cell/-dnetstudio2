@@ -1,0 +1,30 @@
+ <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f0f0f;
+      color: #fff;
+      text-align: center;
+      padding: 40px;
+    }
+    input, button {
+      padding: 10px;
+      font-size: 16px;
+      width: 300px;
+      margin: 10px;
+      border-radius: 5px;
+      border: none;
+    }
+    button {
+      background-color: #00ccff;
+      color: #000;
+      cursor: pointer;
+    }
+    #imageBox {
+      margin-top: 30px;
+    }
+    img {
+      width: 400px;
+      border-radius: 10px;
+      margin-top: 20px;
+      box-shadow: 0 0 20px #00ccff;
+    }
